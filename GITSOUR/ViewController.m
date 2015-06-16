@@ -15,6 +15,9 @@
 @implementation ViewController
 
 - (void)viewDidLoad {
+    NSLog(@"Hello Master");
+    
+    NSLog(@"Hello New Commit");
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
 }
