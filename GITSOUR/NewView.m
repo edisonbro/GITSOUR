@@ -16,6 +16,9 @@
 
 - (void)viewDidLoad {
     NSLog(@"Inside New Class");
+    
+    
+    NSLog(@"Sub branch Data");
     [super viewDidLoad];
     // Do any additional setup after loading the view.
 }
