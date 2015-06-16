@@ -16,6 +16,9 @@
 
 - (void)viewDidLoad {
     NSLog(@"Inside New Class");
+    
+    //Checking Direct Push remote
+    NSLog(@"Success");
     [super viewDidLoad];
     // Do any additional setup after loading the view.
 }
