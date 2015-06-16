@@ -20,6 +20,8 @@
     NSLog(@"Hello New Commit");
     
     NSLog(@"In Master Branch");
+    
+    NSLog(@"hdbewewewe");
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
 }
