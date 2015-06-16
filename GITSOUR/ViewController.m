@@ -23,6 +23,8 @@
     
     NSLog(@"hdbewewewe");
     
+//New Type Checking
+    
     //new brach created
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
